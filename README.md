@@ -1,8 +1,8 @@
 # Make.fun, from zero to your first bounty
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/sixgod383/make-fun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
-[![reward](https://make.fun/badge/bring-the-humans-02/sixgod383/make-fun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/BIDGDCB/make-fun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-02/BIDGDCB/make-fun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 **New to make.fun? Start here: [https://make.fun/r/6s2kbv28](https://make.fun/r/6s2kbv28) — referral code `6s2kbv28`.**
 
